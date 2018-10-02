@@ -7,7 +7,7 @@ public class MainMenuButtons : MonoBehaviour {
 
 	public void NewGame()
     {
-        SceneManager.LoadScene("Maze");
+        SceneManager.LoadScene("LevelOne");
     }
 
     public void Quitgame()
